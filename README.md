@@ -1,2 +1,2 @@
 # FPS
-Napravljeno tijeko edukacije u Inkubatoru Pismo
+Napravljeno tijekom edukacije u Inkubatoru Pismo
